@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+figcaption{
+    text-align: right;
+}
+
+p{
+    text-align: left;
+    text-indent: 30px;
+}
