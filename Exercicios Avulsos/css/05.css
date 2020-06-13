@@ -1,0 +1,12 @@
+img{
+    float: left;
+}
+
+#font{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+#teste{
+    padding-left: 15px;
+}

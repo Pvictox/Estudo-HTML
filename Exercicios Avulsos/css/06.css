@@ -1,0 +1,26 @@
+#cabecalho{
+    border-top: solid 2px black;
+    text-align: center;
+    color: blue;
+    border-bottom: solid 3px rgb(124, 121, 121);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5;
+}
+
+body{
+    background-color: rgb(102, 96, 96);
+}
+
+figure{
+    text-align: center;
+}
+figure img{
+    width: auto;
+    height: 50%;
+}
+figure figcaption{
+    text-align: center;
+}
+footer{
+    border:solid 2px black;
+}

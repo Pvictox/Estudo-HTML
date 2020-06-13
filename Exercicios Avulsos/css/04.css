@@ -1,0 +1,14 @@
+#green{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    margin-bottom: 10px;
+}
+
+#red p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+#red span{
+    color: blue;
+}
