@@ -1,0 +1,15 @@
+#up{
+    vertical-align: super;
+}
+
+#low{
+    vertical-align: sub;
+}
+
+#italico{
+    font-style: italic;
+}
+
+#sublinhado{
+    text-decoration: underline;
+}
