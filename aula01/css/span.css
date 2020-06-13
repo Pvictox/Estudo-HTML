@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+span{
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
